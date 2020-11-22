@@ -1,10 +1,10 @@
-# MrRobust
+# MrRobust Chatbot
 
-We have made an Artificial Intelligence chatbot. We will be using  NLP to train our chatbot to answer like humans. A really good chatbot understands what you’re asking for (even if you don’t use perfect grammar or spelling), and quickly satisfies your request. 
+We have made an Artificial Intelligence chatbot. We have used NLP to train our chatbot to answer like humans. A really good chatbot understands what we’re asking for (even if we don’t use perfect grammar or spelling), and quickly satisfies your queries. 
 
 ## Key Features of the Chatbot
 
-Chatbot are something that can be installed on a mobile device or a robot and can facilitate human activities without risking human lives, as we try to make the chatbot keeping the current pandemic in mind.
+Chatbot are something that can be installed on a mobile device or a robot and can facilitate human activities without risking human lives, as we try to make the chatbot keeping the current pandemic in mind. Some of the key features are :
 
 * Daily Health tip
 
@@ -42,8 +42,12 @@ Chatbot are something that can be installed on a mobile device or a robot and ca
 ```
 ## Eye Disease Detection Neural Network Model
 
+Link for the dataset -> https://www.kaggle.com/jr2ngb/cataractdataset
+
 Also we have made an Eye Disease Detection Neural Network Model that can detects a client’s eye disease through CNN’s, keras and Tensorflow.
 
-The Neural network is capable in detecting a normal eye from cataract or  glaucoma or retina disease eye with an accuracy of 77.55% .
+We trained our model on Alibaba Cloud GPU service on over 450 samples over 50 epochs.
 
-## Thank You
+The Neural network is capable in detecting a normal eye from cataract or glaucoma or retina disease eye with an accuracy of 77.55% .
+
+# Thank You
