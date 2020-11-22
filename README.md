@@ -1,5 +1,25 @@
 # MrRobust
 
+We have made an Artificial Intelligence chatbot. We will be using  NLP to train our chatbot to answer like humans. A really good chatbot understands what you’re asking for (even if you don’t use perfect grammar or spelling), and quickly satisfies your request. 
+
+## Key Features of the Chatbot
+
+Chatbot are something that can be installed on a mobile device or a robot and can facilitate human activities without risking human lives, as we try to make the chatbot keeping the current pandemic in mind.
+
+* Daily Health tip
+
+* Client can tell his/her symptoms to the bot and the bot will provide him the disease name, treatment and hospital name
+
+* Coronavirus helpline number
+
+* Common questions asked related to Covid-19
+
+## Sample replies by the Chatbot
+
+<img src="images/Bot_Reply_1.png" style="width:650px;height:300px;">
+
+<img src="images/Bot_Reply_2.png" style="width:650px;height:300px;">
+
 ## File Structure
 
 ```bash
@@ -17,5 +37,10 @@
 │   ├── eye_disease_detection_file.py
 │   ├── MrRobust_An_Healthcare_Chatbot_DSW.ipynb
 ```
+## Eye Disease Detection Neural Network Model
 
+Also we have made an Eye Disease Detection Neural Network Model that can detects a client’s eye disease through CNN’s, keras and Tensorflow.
 
+The Neural network is capable in detecting a normal eye from cataract or  glaucoma or retina disease eye with an accuracy of 77.55% .
+
+## Thank You
