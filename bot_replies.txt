@@ -1,0 +1,51 @@
+MrRobust : Hi there, I am a healthcare chatbot. You can ask me questions related to your health. I will try my best to give an adequate reply to your queries
+Client : Hi
+MrRobust : hey
+
+Client : From past few days, I am experiencing some pain in my chest and also blood in my cough, could you tell me  which disease I am suffering from?
+MrRobust : don't panic, if you are having pain in your chest and some blood in cough, then this can be a indication of tubercolosis disease.
+
+Client : Okay, so what is the treatment for Tubercolosis then?
+MrRobust : for the treatment of tubercolosis, you can take some antibiotics like isoniazid, rifampin and pyrazinamide for at least six to nine months.
+
+Client : Could you tell me from which disease I am suffering from, if I am having blurry vision and cannot see clearly in dim light?
+MrRobust : dont worry, experiencing blurry vision and unable to see clearly in dim light can be a sign of cataract disease.
+
+Client : So, what is the treatment of cataract?
+MrRobust : for treatment of cataract, you can take some vigamox drops in your eyes and if you are exhibiting some serious symptoms, then you should have eye surgery.
+
+Client : Okay, so for the surgery of cataract, which hospital should I visit?
+MrRobust : for cataract surgery, you can visit eye7 hospital and can book an appointment by using this link -> https://www.eye7.in/ .
+
+Client : Can you recommend me some health tips ?
+MrRobust : Eat lots of fruits and vegetables
+
+Client : What is Covid-19 disease?
+MrRobust : coronavirus disease (covid-19) is an infectious disease caused by a newly discovered coronavirus .
+
+Client : What are the symptoms of covid-19?
+MrRobust : person suffering from covid-19 can experience a broad range of symptoms which can stretch from mild symptoms to critical illness and these symptoms can be: fever, cough, muscle pain, shortness of breath, loss of taste or smell .
+
+Client : How does the transmission of Covid-19 take place? 
+MrRobust : covid-19 is a new disease and experts are still learning about how it's transmission takes place, although the virus is thought to spread mainly from person-to-person .
+
+Client : Which covid-19 patients are on a higher risk?
+MrRobust : covid-19 patients with pre-existing illnesses like cardiovascular disease, diabetes, chronic respiratory disease, hypertension are on a higher risk, also for further information, you can visit https://www.who.int/emergencies/diseases/novel-coronavirus-2019 .
+
+Client : How much is the incubation period of Covid-19?
+MrRobust : the incubation period of the covid-19 is estimated to be between 2 and 14 days based on the reports provided by world health organization (who) , china’s national health commission (nhc) and united states cdc.
+
+Client : What should I do to avoid contracting Covid-19?
+MrRobust : you should wear a mask and follow social distancing when going outside in order to avoid contracting covid-19 .
+
+Client : Where can I check the facts about Covid-19 ?
+MrRobust : misinformation spreads like a virus,  you can refer to this link -> https://fullfact.org/health/coronavirus/ to check facts about covid-19 .
+
+Client : Can you provide me the coronavirus helpline number for Haryana?
+MrRobust : the coronavirus helpline number for haryana  is 8558893911 , please check this link for further reference https://www.mohfw.gov.in/pdf/coronvavirushelplinenumber.pdf .
+
+Client : Where can I view the stats of Covid-19 ?
+MrRobust : for viewing graphs and stats for covid-19, you can refer to this link -> https://www.worldometers.info/coronavirus/worldwide-graphs/ .
+
+Client : bye
+MrRobust : Bye-bye, Have a nice day ahead and take care of your health
