@@ -1,42 +1,24 @@
 # MrRobust
 
-## File Structure
-
-├── AUTHORS.md
-
-
-├── bot_replies.txt
-
-
-├── data
-
-│   ├── bot_data.txt
-
-
-├── LICENSE.md
-
-
-├── requirements.txt
-
-
+```bash
+├── app
+│   ├── css
+│   │   ├── **/*.css
+│   ├── favicon.ico
+│   ├── images
+│   ├── index.html
+│   ├── js
+│   │   ├── **/*.js
+│   └── partials/template
+├── dist (or build)
+├── node_modules
+├── bower_components (if using bower)
+├── test
+├── Gruntfile.js/gulpfile.js
 ├── README.md
-
-
-├── src
-
-
-│   ├── bot_functions_file.py
-
-
-│   ├── bot_main_file.py
-
-
-│   ├── Eye_Disease_Detection_DSW.fnn.ipynb
-
-
-│   ├── eye_disease_detection_file.py
-
-
-│   ├── MrRobust_An_Healthcare_Chatbot_DSW.ipynb
+├── package.json
+├── bower.json (if using bower)
+└── .gitignore
+```
 
 
