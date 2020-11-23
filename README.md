@@ -28,8 +28,8 @@ Chatbot are something that can be installed on a mobile device or a robot and ca
 ├── data
 │   ├── bot_data.txt
 ├── images
-│   ├── Bot_Reply_1.png
-│   └── Bot_Reply_2.png
+│   ├── Sample_Bot_Reply_1.png
+│   └── Sample_Bot_Reply_2.png
 ├── LICENSE.md
 ├── requirements.txt
 ├── README.md
