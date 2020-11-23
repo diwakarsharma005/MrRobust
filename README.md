@@ -16,9 +16,9 @@ Chatbot are something that can be installed on a mobile device or a robot and ca
 
 ## Sample replies by the Chatbot
 
-<img src="images/Bot_Reply_1.png" style="width:650px;height:300px;">
+<img src="images/Sample_Bot_Reply_1.png" style="width:650px;height:300px;">
 
-<img src="images/Bot_Reply_2.png" style="width:650px;height:300px;">
+<img src="images/Sample_Bot_Reply_2.png" style="width:650px;height:300px;">
 
 ## File Structure
 
